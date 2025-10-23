@@ -1,0 +1,25 @@
+
+.home{
+    margin: 20px 20px;
+}
+
+a{
+    text-align: right;
+}
+
+
+
+@media screen and (min-width: 600px) and (max-width:800px){
+    .home{
+        margin: 20px 15px;
+    }
+}
+
+
+@media screen and (min-width: 0px) and (max-width:600px){
+    .home{
+        margin: 20px 15px;
+    }
+}
+
+
